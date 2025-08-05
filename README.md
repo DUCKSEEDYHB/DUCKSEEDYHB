@@ -1,4 +1,4 @@
-以下是整合了宝可梦图片、按你需求调整后的完整 `README.md` 内容，直接复制到 GitHub 同名仓库（`DUCKSEEDYHB`）的 `README.md` 文件里即可：
+
 
 ---
 
