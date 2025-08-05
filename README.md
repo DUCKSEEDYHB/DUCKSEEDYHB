@@ -7,7 +7,7 @@
 Hi～我是 **浮萍（混子）** ，在代码与技术的海洋里探索ing 🌊  
 
 <!-- 宝可梦主题图片，可替换为你上传后的实际链接 -->
-![宝可梦全家福](https://github.com/DUCKSEEDYHB/DUCKSEEDYHB/blob/main/images/pokemon-group.png)  
+![宝可梦全家福](https://github.com/DUCKSEEDYHB/DUCKSEEDYHB/blob/main/pokemon-group.png)  
   
 
 
